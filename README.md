@@ -11,4 +11,4 @@ O algoritmo calcula a menor trajetória entre dois nodos de uma matriz, com base
 Screenshots
 -------------
 
-![Alt text](/Screenshot/sample1.jpg)
+![Alt text](/Screenshot/sample1.png)
