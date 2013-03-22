@@ -6,7 +6,7 @@ Djikstra-Ruby
 Funcionamento
 -------------
 
-O algoritmo calcula a menor trajetória entre dois nodos de uma matriz, com base no custo de deslocamento. A entrada de dados deve ser feita de acordo com o exemplo na foto abaixo (primeiro o nome da matriz, depois a origim e o destino). Neste exemplo esta sendo utilizada uma matriz quadrada de 100x100 e o valor de 1000000 representa a inexistência de uma ligação para o nodo em questão.
+O algoritmo calcula a menor trajetória entre dois nodos de uma matriz, com base no custo de deslocamento. A entrada de dados deve ser feita de acordo com o exemplo mais abaixo (primeiro o nome da matriz, depois a origem e o destino). Neste exemplo foi utilizado uma matriz quadrada de 100x100, sendo que o valor de 1000000 representa a inexistência de uma ligação para o nodo em questão.
 
 Screenshots
 -------------
