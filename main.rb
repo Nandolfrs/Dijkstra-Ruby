@@ -1,4 +1,4 @@
-require "dijkstra.rb"
+require_relative "dijkstra"
 
 ## Carregando arquivo para o vetor
 arquivo = ARGV.first
